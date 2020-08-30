@@ -2,6 +2,6 @@
 	path = themes/academic
 	url = https://github.com/gcushen/hugo-academic.git
 
-[submodule "themes/aboutme"]
-	path = themes/aboutme 
-	url = https://github.com/gcushen/hugo-academic.git
+[submodule "themes/AboutMeTheme"]
+	path = themes/AboutMeTheme
+	url = "https://github.com/Akshit-Patel/AboutMeTheme.git"
