@@ -4,3 +4,4 @@
 
 [submodule "themes/aboutme"]
 	path = themes/aboutme 
+	url = https://github.com/gcushen/hugo-academic.git
