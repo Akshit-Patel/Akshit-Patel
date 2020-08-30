@@ -6,5 +6,3 @@ weight = 140  # Order that this section will appear in.
 
 title = "Courses"
 +++
-
-Everything is awesome!
