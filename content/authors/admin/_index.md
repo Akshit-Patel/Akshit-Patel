@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Prefinal Year Engineering Student
+role: "<h5>Prefinal Year Engineering Student</h5> <h3>akshitpatel1024@gmail.com</h3>"
 
 # Organizations/Affiliations
 organizations:
@@ -18,19 +18,19 @@ organizations:
   url: "https://www.bits-pilani.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Prefinal Year, Electronics and Instrumentation, Student at BITS Pilani
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Web Development
+  - Aerial Vehicles
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: "#contact"
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: "akshitpatel1024@gmail.com"
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/akshit-patel-39075476/
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -54,4 +54,4 @@ user_groups:
   - Visitors
 ---
 
-I am an Electronics and Instrumentation student at Birla Institute of Technology and Science, Pilani, currently in my 3rd year.I have a general interest in robotics and automation and love to fiddle around with these. I tried multiple things to find my interests in general. I started with developing websites for various events across campus. After finding that redudant, my interest started to shift towards aerial robotics.
+I am an Electronics and Instrumentation student at Birla Institute of Technology and Science, Pilani, currently in my 3rd year.I have a general interest in robotics and automation and love to fiddle around with things. I tried multiple things to find my interests in general. I started with developing websites for various events across campus and then gradually got interested in industrial automation. Neverthless I would still love to work on web dev projects.

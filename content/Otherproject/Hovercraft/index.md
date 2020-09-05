@@ -1,5 +1,5 @@
 ---
-title: Autonomous Indoor Drone
+title: Hovercraft
 summary: An example of using the in-built project page.
 tags:
 - Robotics
@@ -12,16 +12,15 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
+# links:
 # - icon: twitter
 #   icon_pack: fab
 #   name: Follow
-#   url: https://twitter.com/georgecushen
+  # url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "https://drive.google.com/drive/folders/1oktp8P8gfRQQ1KgVw75gvh7lcxKnPhgI?usp=sharing"
-url_slides: "https://drive.google.com/drive/folders/1oktp8P8gfRQQ1KgVw75gvh7lcxKnPhgI?usp=sharing"
-url_video: "https://drive.google.com/drive/folders/1oktp8P8gfRQQ1KgVw75gvh7lcxKnPhgI?usp=sharing"
-# url_efficienyData: "https://drive.google.com/drive/folders/1oktp8P8gfRQQ1KgVw75gvh7lcxKnPhgI?usp=sharing"
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
