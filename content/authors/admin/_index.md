@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "Prefinal Year Engineering Student<br>[akshitpatel1024@gmail.com](akshitpatel1024@gmail.com)</br>"
+role: "Prefinal Year Engineering Student<br>[akshitpatel1024@gmail.com](mailto:akshitpatel1024@gmail.com)</br>"
 
 # Organizations/Affiliations
 organizations:
