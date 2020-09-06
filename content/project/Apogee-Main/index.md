@@ -1,6 +1,6 @@
 ---
 title: APOGEE'20
-summary: An example of linking directly to an external project website using `APOGEE'20`.
+summary: Main website for `APOGEE'20`.
 tags:
 - Web Development
 date: "2016-04-27T00:00:00Z"

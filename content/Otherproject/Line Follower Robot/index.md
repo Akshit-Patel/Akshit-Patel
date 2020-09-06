@@ -1,6 +1,6 @@
 ---
 title: Line Follower Robot
-summary: An example of using the in-built project page.
+summary: apogee'19
 tags:
 - Robotics
 date: "2016-04-27T00:00:00Z"

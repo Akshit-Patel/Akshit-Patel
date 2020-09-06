@@ -32,7 +32,7 @@ summary: In this research, I and my coauthors present a detailed analysis of BLD
 tags:
 - Conference Paper
 - IEEE 2020
-- BLDC 
+- BLDC   
 - Fuzzy Logic
 - Genetic Algorithm
 featured: true
@@ -73,7 +73,7 @@ projects:
 slides: example
 ---
 
-<!-- {{% alert note %}}
+{{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
@@ -81,5 +81,5 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "<h5>Prefinal Year Engineering Student</h5> <h3>akshitpatel1024@gmail.com</h3>"
+role: "Prefinal Year Engineering Student<br>[akshitpatel1024@gmail.com](akshitpatel1024@gmail.com)</br>"
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ interests:
 social:
   # - icon: envelope
   #   icon_pack: fas
-  #   link: "akshitpatel1024@gmail.com"
+  #   link: mailto:akshitpatel1024@gmail.com
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/akshit-patel-39075476/
@@ -54,4 +54,4 @@ user_groups:
   - Visitors
 ---
 
-I am an Electronics and Instrumentation student at Birla Institute of Technology and Science, Pilani, currently in my 3rd year.I have a general interest in robotics and automation and love to fiddle around with things. I tried multiple things to find my interests in general. I started with developing websites for various events across campus and then gradually got interested in industrial automation. Neverthless I would still love to work on web dev projects.
+I am an Electronics and Instrumentation student at Birla Institute of Technology and Science, Pilani, currently in my 3rd year.I have a general interest in robotics and automation and love to fiddle around with things. I tried multiple things to find my interests in general. I started with developing websites for various events across campus and then gradually got interested in industrial automation. I would still love to work and explore on different development projects. 

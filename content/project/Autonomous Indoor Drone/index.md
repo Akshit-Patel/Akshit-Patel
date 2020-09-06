@@ -1,6 +1,6 @@
 ---
 title: Autonomous Indoor Drone
-summary: An example of using the in-built project page.
+summary: For Flipkart Grid 2.0 2020.
 tags:
 - Robotics
 date: "2016-04-27T00:00:00Z"

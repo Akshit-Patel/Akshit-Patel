@@ -1,6 +1,6 @@
 ---
 title: OASIS'19 
-summary: An example of linking directly to an external project website using `OASIS'19`.
+summary: Main Website for `OASIS'19`.
 tags:
 - Web Development
 date: "2016-04-27T00:00:00Z"
