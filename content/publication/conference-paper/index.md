@@ -5,6 +5,8 @@ authors:
 - Shivanand Pal
 - Aditya Jabade
 - Kartheek Miduthuru
+- B. A. Botre
+- Gaurav Sahu
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
@@ -28,7 +30,11 @@ abstract: "Brushless DC (BLDC) motors have become the optimal choice for high-pr
 summary: In this research, I and my coauthors present a detailed analysis of BLDC-hub motor. The main purpose of this is to provide a comprehensive comparison of conventional, genetic algorithm and self-tuning fuzzy logic PID methods for motor control design.
 
 tags:
-- Source Themes
+- Conference Paper
+- IEEE 2020
+- BLDC 
+- Fuzzy Logic
+- Genetic Algorithm
 featured: true
 
 links:
@@ -46,7 +52,8 @@ url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: '**Motor Model Designed**'
   focal_point: ""
   preview_only: false
 
@@ -66,7 +73,7 @@ projects:
 slides: example
 ---
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
@@ -74,5 +81,5 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->
 
