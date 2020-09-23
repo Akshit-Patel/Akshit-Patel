@@ -30,4 +30,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am an Electronics and Instrumentation student at Birla Institute of Technology and Science, Pilani, currently in my 3rd year. My main interest lies in the control theory and multi-agent aerial robotic systems and its applications. I have experience in designing and developing different types of systems. I love to simulate different systems and test algorithms on those. I am also proficient in image processing and ROS. Having research experience I am well versed with the process of any research with proficiency in technical writings which is very important for any research.
+My main interest lies in control theory and multi-agent aerial robotic systems and its applications. I have experience in designing and developing different types of systems. I love to simulate different systems and test algorithms on those. I have experience with robotics simulation involving tools like ROS and Gazebo and MATLAB. Having research experience I am well versed with the process of any research with proficiency in technical writings which is very important for any research.
