@@ -3,12 +3,47 @@ title: OASIS'19
 summary: Main Website for `OASIS'19`.
 tags:
 - Web Development
-date: "2016-04-27T00:00:00Z"
+date: "2019-08-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/dvm-bitspilani/oasis-2019-intro
+external_link: ""
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  # caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+
+# links:
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+  # url: https://twitter.com/georgecushen
+url_code: "https://github.com/dvm-bitspilani/oasis-2019-main"
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: example
+
+
+# title: OASIS'19 
+# summary: Main Website for `OASIS'19`.
+# tags:
+# - Web Development
+# date: "2016-04-27T00:00:00Z"
+
+# # Optional external URL for project (replaces project detail page).
+# external_link: https://github.com/dvm-bitspilani/oasis-2019-intro
+
+# image:
+#   caption: Photo by Toa Heftiba on Unsplash
+#   focal_point: Smart
 ---
+Oasis—the cultural fest of BITS Pilani—is nothing but 96 hours of unadulterated thrills comprising music, dance, drama, art, quizzes, fashion, and humour. With a footfall of around 5000+ every year, it is the second-largest cultural festival of India. This year’s theme—neon-noir—is a confluence of the contraries coexisting in harmony. On a superficial level, the theme is inherently contradictory—the concept of both light and darkness manifested simultaneously. On a metaphysical level, however, neon-noir is a commentary on specific socio-cultural dimensions such as urban decay, consumerism, and industrial encroachment. It is characterised by menacing cityscapes with the luminescence accentuating the shadows. If convoluted storylines, crime, and moral fluctuation enrapture you, this Oasis, from 19th to 23rd October, buckle up for the experience of an aesthetic so powerful that you question your very existence in this realm. Live the life of a Taxi Driver and run on blades of talent in the 50th edition of the fest which promises to leave you in a trance caused by the chiaroscuro of shadow and illumination. 
+
+
+Click [this](https://bits-oasis.org/) to visit website and for Github link click [here](http://localhost:1313/project/oasis-main/)

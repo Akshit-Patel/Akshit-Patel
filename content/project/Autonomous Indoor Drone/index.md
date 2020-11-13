@@ -3,7 +3,7 @@ title: Autonomous Indoor Drone
 summary: For Flipkart Grid 2.0 2020.
 tags:
 - Robotics
-date: "2016-04-27T00:00:00Z"
+date: "2020-08-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -20,7 +20,7 @@ links:
 url_code: ""
 url_pdf: "https://drive.google.com/drive/folders/1oktp8P8gfRQQ1KgVw75gvh7lcxKnPhgI?usp=sharing"
 url_slides: "https://drive.google.com/drive/folders/1oktp8P8gfRQQ1KgVw75gvh7lcxKnPhgI?usp=sharing"
-url_video: "https://drive.google.com/drive/folders/1oktp8P8gfRQQ1KgVw75gvh7lcxKnPhgI?usp=sharing"
+# url_video: "https://drive.google.com/drive/folders/1oktp8P8gfRQQ1KgVw75gvh7lcxKnPhgI?usp=sharing"
 # url_efficienyData: "https://drive.google.com/drive/folders/1oktp8P8gfRQQ1KgVw75gvh7lcxKnPhgI?usp=sharing"
 
 # Slides (optional).
@@ -30,5 +30,14 @@ url_video: "https://drive.google.com/drive/folders/1oktp8P8gfRQQ1KgVw75gvh7lcxKn
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+This project was part of a competition conducted by Flipkart for Autonomous Indoor Drone Design.
 
-Complete Description with Github Link to be added
+I was part of team **AeroBITS**, a team of four members who were selected out of a 1500+ team pool that applied for **_Flipkart GRiD 2.0_**. After finishing multiple rounds, we were one of the 46 teams that qualified for the semi-finals (Round 3) of the "Autonomous Indoor Drone" competition in GRiD 2.0.
+
+We designed a fully autonomous drone while staying under a budget of 50,000 INR, that navigates using Computer Vision algorithms, and simulated the same, in order to prepare a draft proposal to be vetted by the organizers. The design included mechanical, aerodynamic, and flight aspects of the drone, along with designing the control system, and computer vision algorithms of the drone.
+
+Following the demo video that we developed as a proof of concept -
+
+{{< video library="true" src="Demo Video.mp4" controls="yes" >}}
+
+Github Link Along with code to be updated further.

@@ -7,11 +7,11 @@ authors:
 - Kartheek Miduthuru
 - B. A. Botre
 - Gaurav Sahu
-date: "2013-07-01T00:00:00Z"
+date: "2020-11-11T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-11-T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -37,10 +37,10 @@ tags:
 - Genetic Algorithm
 featured: true
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+# links:
+# - name: Custom Link
+#   url: http://example.org
+url_pdf: https://drive.google.com/file/d/1AlPitpcK1fWuT3GuUhN4k3sk7cHXuMFC/view
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
