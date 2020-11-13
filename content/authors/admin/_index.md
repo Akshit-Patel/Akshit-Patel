@@ -30,4 +30,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-My main interest lies in control theory and multi-agent aerial robotic systems and its applications. I have experience in designing and developing different types of systems. I love to simulate different systems and test algorithms on those. I have experience with robotics simulation involving tools like ROS and Gazebo and MATLAB. Having research experience I am well versed with the process of any research with proficiency in technical writings which is very important for any research.
+My main interest lies in control theory and multi-agent aerial robotic systems and its applications. I have experience in designing and developing different types of systems. I love to simulate different systems and test algorithms on those. I have experience with robotics simulation involving tools like ROS, Gazebo and MATLAB.
