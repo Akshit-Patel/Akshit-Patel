@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   location = "BITS Pilani"
   date_start = "2018-08-01"
   date_end = ""
-  description = """I worked here on building many fixed wing and multirotors Radio controlled aerial vehicles.I participated in various competitions at Techinal Fests. Also as part of my Position of Responsibility at Club I was responsible for various activities going inside club. I also modified general proceedings inside club which led to increase in retention of its new members by 5 times"""
+  description = """I worked here on building many fixed wing and multirotors Radio controlled aerial vehicles.I participated in various competitions at Techinal Fests. Also as part of my Position of Responsibility at Club I was responsible for various activities going inside club."""
 
 [[experience]]
   title = "Web Developer"
