@@ -1,6 +1,6 @@
 ---
-title: Pesticide Spraying Hexacopter
-summary: Efficient Image stitching algorithms and its comparisons
+title: Smart Agriculture Spraying System
+summary: " "
 tags:
 - Robotics
 date: "2020-04-27T00:00:00Z"
@@ -45,6 +45,8 @@ slides: example
 #   focal_point: Smart
 
 ---
- Heavy Endurance Hexacopter capable of spraying 0.5 gallons of pesticide with a flight time of 15 min.Heavy Endurance Hexacopter capable of spraying 0.5 gallons of pesticide with a flight time of 15 min.Heavy Endurance Hexacopter capable of spraying 0.5 gallons of pesticide with a flight time of 15 min.Heavy Endurance Hexacopter capable of spraying 0.5 gallons of pesticide with a flight time of 15 min.Heavy Endurance Hexacopter capable of spraying 0.5 gallons of pesticide with a flight time of 15 min.
+<!-- Heavy Endurance Hexacopter capable of spraying 0.5 gallons of pesticide with a flight time of 15 min.Heavy Endurance Hexacopter capable of spraying 0.5 gallons of pesticide with a flight time of 15 min.Heavy Endurance Hexacopter capable of spraying 0.5 gallons of pesticide with a flight time of 15 min. -->
 
-Complete Description with Github Link to be added
+In this project I and my team members propose a complete pesticide spraying system with aerial vehicle right from transducers to designing variable spray rate control. 
+
+Further Description to be added.

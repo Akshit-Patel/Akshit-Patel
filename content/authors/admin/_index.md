@@ -30,4 +30,13 @@ user_groups:
   - Researchers
   - Visitors
 ---
-My main interest lies in control theory and multi-agent aerial robotic systems and its applications. I have experience in designing and developing different types of systems. I love to simulate different systems and test algorithms on those. I have experience with robotics simulation involving tools like ROS, Gazebo and MATLAB.
+<!-- My main interest lies in control theory and multi-agent aerial robotic systems and its applications. I have experience in designing and developing different types of systems. I love to simulate different systems and test algorithms on those. I have experience with robotics simulation involving tools like ROS, Gazebo and MATLAB. -->
+
+<!-- I am a engineering student at BITS Pilani, currently in my third year. I have general interest in designing and developing robotics systems.  -->
+<!-- 
+My main interest lies in control theory and multi-agent aerial robotic systems and its applications. I have experience in designing and developing different types of systems and worked developing robotics simulation involving tools like ROS, Gazebo and MATLAB. Apart from this I have also been part of different web development projects oriented towards college fests.
+
+When I am free I like playing computer games, currently active on krunker catch me up here  -->
+
+I am a junior engineering student at BITS Pilani. I like to explore and innovate. I have experience in developing robotic simulations involving tools like ROS, Gazebo, and MATLAB. Apart from this, I have also been part of different web development projects oriented towards college fests. 
+When I am free I like binging, working out and playing computer games, currently active on krunker. 
