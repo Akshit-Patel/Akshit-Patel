@@ -38,5 +38,5 @@ My main interest lies in control theory and multi-agent aerial robotic systems a
 
 When I am free I like playing computer games, currently active on krunker catch me up here  -->
 
-I am a junior engineering student at BITS Pilani. I like to explore and innovate. I have experience in developing robotic simulations involving tools like ROS, Gazebo, and MATLAB. Apart from this, I have also been part of different web development projects oriented towards college fests. 
+I am a junior engineering student at BITS Pilani who likes to explore and innovate. I have experience in developing robotic simulations involving tools like ROS, Gazebo, and MATLAB. Apart from this, I have also been part of different web development projects oriented towards college fests. 
 When I am free I like binging, working out and playing computer games, currently active on krunker. 

@@ -43,7 +43,7 @@ slides: example
 #   caption: Photo by Toa Heftiba on Unsplash
 #   focal_point: Smart
 ---
-Oasis—the cultural fest of BITS Pilani—is nothing but 96 hours of unadulterated thrills comprising music, dance, drama, art, quizzes, fashion, and humour. With a footfall of around 5000+ every year, it is the second-largest cultural festival of India. This year’s theme—neon-noir—is a confluence of the contraries coexisting in harmony. On a superficial level, the theme is inherently contradictory—the concept of both light and darkness manifested simultaneously. On a metaphysical level, however, neon-noir is a commentary on specific socio-cultural dimensions such as urban decay, consumerism, and industrial encroachment. It is characterised by menacing cityscapes with the luminescence accentuating the shadows. If convoluted storylines, crime, and moral fluctuation enrapture you, this Oasis, from 19th to 23rd October, buckle up for the experience of an aesthetic so powerful that you question your very existence in this realm. Live the life of a Taxi Driver and run on blades of talent in the 50th edition of the fest which promises to leave you in a trance caused by the chiaroscuro of shadow and illumination. 
+Oasis—the cultural fest of BITS Pilani—is nothing but 96 hours of unadulterated thrills comprising music, dance, drama, art, quizzes, fashion, and humour. Last year’s theme—neon-noir—is a confluence of the contraries coexisting in harmony. 
 
 
 Click [this](https://bits-oasis.org/) to visit website and for Github link click [here](http://localhost:1313/project/oasis-main/)

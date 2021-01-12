@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-05-27"
   date_end = "2020-07-27"
   description = """
-  I worked on designing closed-loop control of motors used in the E-tricycle project for the disabled and elderly. We successfully obtained parameters of BLDC motors with unknown parameters and designed a closed-loop control by using various PID techniques by simulating that motor in MATLAB-SIMULINK with the parameters obtained. Some of the advanced PID techniques used were self tuning adaptive Fuzzy PID constants and Genetic Algorithm PID tuning.
+  Worked on designing closed-loop control of motors used in the E-tricycle project for the disabled and elderly. We successfully obtained parameters of BLDC motors with unknown parameters and designed a closed-loop control by using various PID techniques by simulating that motor in MATLAB-SIMULINK with the parameters obtained. Some of the advanced PID techniques used were self tuning adaptive Fuzzy PID constants and Genetic Algorithm PID tuning.
   """
 
 [[experience]]
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   location = "BITS Pilani"
   date_start = "2018-08-01"
   date_end = ""
-  description = """I worked here on building many fixed wing and multirotors Radio controlled aerial vehicles.I participated in various competitions at Techinal Fests and covered aerial photography of different events as its member. """
+  description = """Worked here on building many fixed wing and multirotors Radio controlled aerial vehicles.Participated in different competitions and covered aerial photography of different events as its member. """
 
 [[experience]]
   title = "Web Developer"
@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   location = "BITS Pilani"
   date_start = "2018-08-01"
   date_end = "2020-08-01"
-  description = """I designed and developed various engaging websites and web app for techinal fest(Apogee), Cultural Fest(Oasis) and Sports fest (BOSM) of my university, BITS Pilani. These websites have yearly usebase of around 15k and have over a lakh visitors"""
+  description = """Designed and developed various engaging websites and web app for techinal fest(Apogee), Cultural Fest(Oasis) and Sports fest (BOSM) of my university, BITS Pilani. These websites have yearly usebase of around 15k and have over a lakh visitors"""
 
   [[experience]]
   title = "Core Member"

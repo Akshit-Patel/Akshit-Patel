@@ -46,7 +46,7 @@ image:
 --- -->
 
 
-I worked on building website for APOGEE(A Professions Oriented Gathering over Educational Experiences) is the institute’s annual technical extravaganza, with _The Glitch Repository_ as its theme this time. A melange of technology, innovation and inspiration across space and time of humankind, this technical conference will, as always, play host to the brightest minds and thinkers in the country and world. From presenting papers and projects at the oldest-of-its-kind events in the country, developing amazing solutions to real-life cases and problems, exhibitions of the best contraptions that man has made, guest lectures that tell stories never heard before, to the college’s own literature festival, APOGEE challenges the intellect of the participants and piques the minds of the audience. 
+Worked on building website for APOGEE(A Professions Oriented Gathering over Educational Experiences) which is the institute’s annual technical extravaganza, with _The Glitch Repository_ as its theme this time. 
 
  
  Find link to the website [here](https://dvm-bitspilani.github.io/apogee-2020-main/) and for Github Link click [here](https://github.com/dvm-bitspilani/apogee-2020-mains)
