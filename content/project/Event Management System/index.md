@@ -45,7 +45,6 @@ slides: example
 #   # focal_point: Smart
 ---
 
-Portal for judges to grade the participating teams at various levels of an event. It was made using ReactJs and was used by judges during the
-cultural fest of BITS Pilani, Oasis'19 which has an average footfall of 3000 with over 500 participants
+Portal for judges to grade the participating teams at various levels of an event. It was made using ReactJs and was used by judges during the cultural fest of BITS Pilani, Oasis'19 which has an average footfall of 3000 with over 500 participants
 
 **Github Link - https://github.com/dush-t/DVMquizbuilder**
