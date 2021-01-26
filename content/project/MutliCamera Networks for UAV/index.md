@@ -30,4 +30,6 @@ url_video: ""
 slides: example
 ---
 
-Complete Description with Github Link to be added
+Worked on developing and studying efficient spatial based image processing algorithms for real-time image mosaicingfor drone swarms.  Later a comparison was drawn between different algorithms based on various metrics.
+
+Github Link to be added

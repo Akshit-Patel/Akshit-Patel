@@ -36,8 +36,9 @@ I was part of team **AeroBITS**, a team of four members who were selected out of
 
 We designed a fully autonomous drone while staying under a budget of 50,000 INR, that navigates using Computer Vision algorithms, and simulated the same, in order to prepare a draft proposal to be vetted by the organizers. The design included mechanical, aerodynamic, and flight aspects of the drone, along with designing the control system, and computer vision algorithms of the drone.
 
-Following the demo video that we developed as a proof of concept -
+**Github Link** - [https://github.com/Akshit-Patel/Autonomous-Indoor-Drone](https://github.com/Akshit-Patel/Autonomous-Indoor-Drone) 
+
+Following is the demo video that we developed as a proof of concept -
 
 {{< video library="true" src="Demo Video.mp4" controls="yes" >}}
 
-Github Link Along with code to be updated further.

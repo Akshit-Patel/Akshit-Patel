@@ -32,7 +32,7 @@ slides: example
 
 **GITHUB Link - https://github.com/Akshit-Patel/Control-System-Projects**
 
-This repository contains some common problems to control systems and their MATLAB SIMULINK solutions. Also resources required to understand these problems are provided. This is updated weekly. Please open a issue in case of any discrepancy or further update. 
+This repository contains some common problems to control systems and their MATLAB SIMULINK solutions.
 
 
 **Problem 1 - Closed Loop PID speed control for mathematical model of BLDC Motor**
@@ -64,14 +64,12 @@ Resources -
 
 Basic Version of the above problem and only normal PID Control
 
-**Problem 3  - Tune a proportional controller using root locus for a generalized second order system to have a specific settling time and maximum overshoot for step reference input**
+**Problem 3 - Tune a proportional controller using root locus for a generalized second order system to have a specific settling time and maximum overshoot for step reference input**
 Resources -
 
    * Understanding Root Locus
      * https://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=ControlRootLocus
 
 
-**Problem 4  - Self Tuning based Fuzzy logic-based control of speed and position of DC shunt motor.**
-
-Video lecture on fuzzy logic was already shared earlier
+**Problem 4 - Self Tuning based Fuzzy logic-based control of speed and position of DC shunt motor.**
 
